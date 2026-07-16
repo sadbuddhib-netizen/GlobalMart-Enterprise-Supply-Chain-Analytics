@@ -2,30 +2,42 @@
 
 ## Project Overview
 
-GlobalMart Enterprise Supply Chain Analytics is an end-to-end Business Intelligence project designed to simulate a real-world enterprise supply chain environment.
+GlobalMart Enterprise Supply Chain Analytics is an end-to-end Business Intelligence project that simulates a real-world enterprise supply chain environment.
 
-The primary objective of this project is to analyze sales, logistics, inventory, supplier performance, warehouse operations, and customer behavior to generate actionable business insights. The project demonstrates the complete analytics lifecycle, from data modeling and SQL analysis to dashboard development in Power BI.
+The objective of this project is to analyze sales, logistics, inventory, supplier performance, warehouse operations, and customer behavior to generate actionable business insights using SQL, Excel, Python, and Power BI.
+
+---
 
 ## Business Problem
 
-GlobalMart is experiencing several operational challenges that are impacting business performance, including:
+GlobalMart is facing several operational challenges that affect business performance.
+
+The major business challenges include:
 
 - Delivery delays
-- Inventory stock shortages
+- Inventory shortages
 - Increasing product return rates
 - Rising logistics costs
 - Lack of centralized business reporting
 
-The objective of this project is to identify the root causes of these challenges and provide data-driven recommendations through interactive dashboards and analytical reports.
+This project aims to identify these problems and provide data-driven recommendations through analytics and interactive dashboards.
+
+---
 
 ## Project Objectives
 
-- Analyze sales performance across products, categories, cities, and states.
-- Evaluate supplier performance and delivery efficiency.
-- Monitor inventory levels and identify low-stock products.
-- Analyze warehouse performance and logistics operations.
-- Measure customer purchasing behavior and return trends.
-- Develop executive dashboards for business decision-making.
+The objectives of this project are:
+
+- Analyze sales performance
+- Monitor warehouse efficiency
+- Evaluate supplier performance
+- Optimize inventory management
+- Analyze customer purchasing behavior
+- Measure logistics performance
+- Build executive dashboards
+- Generate business recommendations
+
+---
 
 ## Technology Stack
 
@@ -36,7 +48,11 @@ The objective of this project is to identify the root causes of these challenges
 - Git
 - GitHub
 
-## Project Structure
+---
+
+## Planned Project Structure
+
+```text
 GlobalMart-Enterprise-Supply-Chain-Analytics/
 │
 ├── 01_Business_Documents
@@ -47,9 +63,13 @@ GlobalMart-Enterprise-Supply-Chain-Analytics/
 ├── 06_PowerBI
 ├── 07_Documentation
 ├── 08_Presentation
-└── README.md`
+└── README.md
+```
 
-## Dashboard Pages
+---
+
+## Planned Dashboard Pages
+
 1. Executive Dashboard
 2. Sales Dashboard
 3. Inventory Dashboard
@@ -57,37 +77,42 @@ GlobalMart-Enterprise-Supply-Chain-Analytics/
 5. Supplier Dashboard
 6. Customer Dashboard
 
-## Project Deliverables
-- Business Requirement Document (BRD)
-- Data Dictionary
-- Entity Relationship Diagram (ERD)
-- SQL Database and Queries
-- Excel Data Cleaning
-- Python Exploratory Data Analysis
-- Power BI Interactive Dashboard
-- Business Insights and Recommendations
-- Final Project Presentation
+---
 
-## Project Status
-**Current Phase:** Phase 1 – Project Initialization
-Completed:
-- Business Understanding
-- Project Planning
-- Repository Setup
+## Project Timeline
 
-In Progress:
-- Dataset Design
-- Database Modeling
+| Phase | Status |
+|---------|---------|
+| Project Planning | Completed |
+| Business Understanding | Completed |
+| Dataset Design | Planned |
+| SQL Development | Planned |
+| Excel Analysis | Planned |
+| Python Analysis | Planned |
+| Power BI Dashboard | Planned |
+| Documentation | Planned |
+| Final Presentation | Planned |
 
-Upcoming:
-- Data Generation
-- SQL Development
-- Power BI Dashboard
-- Python Analysis
-- Documentation
-- Final Presentation
+---
 
 ## Author
-Sadbuddhi Bhaigade
+
+**Sadbuddhi Bhaigade**
+
 Bachelor of Science in Information Technology (B.Sc. IT)
-Aspiring Data Analyst | SQL | Excel | Python | Power BI
+
+Aspiring Data Analyst
+
+Skills:
+- SQL
+- Excel
+- Python
+- Power BI
+- Data Analytics
+- Business Intelligence
+
+---
+
+## Note
+
+This project uses a fictional company named **GlobalMart Supply Chain Pvt. Ltd.** The datasets are synthetic and designed to simulate realistic enterprise supply chain operations for learning and portfolio purposes.
